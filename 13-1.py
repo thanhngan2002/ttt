@@ -1,6 +1,6 @@
 
 import os 
-path = 'C:'
+path = 'C\\:'
 list1=[]
 list2=[]
 
