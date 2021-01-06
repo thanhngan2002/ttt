@@ -5,7 +5,8 @@ file=input("Ten tap tin:")
 os.chdir('C:\\')
 os.mkdir(folder)
 os.chdir(folder)
-open(file,mode='a+')
+f=open(file,mode='a+')
+f.close()
 print('kết thúc')
 
 
